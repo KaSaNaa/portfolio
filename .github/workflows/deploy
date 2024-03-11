@@ -20,6 +20,11 @@ concurrency:
   group: 'pages'
   cancel-in-progress: true
 
+# Allow env vars
+VITE_APP_EMAILJS_SERVICE_ID=service_lkm0hq6
+VITE_APP_EMAILJS_TEMPLATE_ID=template_glhtx0u
+VITE_APP_EMAILJS_PUBLIC_KEY=4ZSPmncaZny5fRPzA
+
 jobs:
   # Single deploy job since we're just deploying
   deploy:
