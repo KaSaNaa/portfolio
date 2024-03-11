@@ -1,6 +1,6 @@
 import { meta, shopify, starbucks, tesla } from "../assets/images";
 import {
-  car,
+  instagram,
   contact,
   css,
   firebase,
@@ -129,6 +129,11 @@ export const socialLinks = [
     name: "LinkedIn",
     iconUrl: linkedin,
     link: "https://www.linkedin.com/in/pasinduranawakage",
+  },
+  {
+    name: "Instagram",
+    iconUrl: instagram,
+    link: "https://instagram.com/fearless_salad",
   },
 ];
 

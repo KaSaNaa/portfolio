@@ -34,9 +34,11 @@ import nibm from './nibm.svg'
 import firebase from './firebase.svg'
 import figma from './figma.svg'
 import springboot from './springboot.svg'
+import instagram from './instagram.svg'
 
 export {
     css,
+    instagram,
     firebase,
     figma,
     springboot,
