@@ -35,6 +35,7 @@ import firebase from './firebase.svg'
 import figma from './figma.svg'
 import springboot from './springboot.svg'
 import instagram from './instagram.svg'
+import swapp_white from './swapp_white.svg'
 
 export {
     css,
@@ -48,6 +49,7 @@ export {
     git,
     github,
     nibm,
+    swapp_white,
     html,
     javascript,
     mongodb,

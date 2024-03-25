@@ -12,6 +12,7 @@ import {
   github,
   html,
   javascript,
+  swapp_white,
   linkedin,
   mongodb,
   nibm,
@@ -151,6 +152,8 @@ export const projects = [
     theme: "btn-back-black",
     name: "Coffee Shop Site with ReSTful API",
     description:
+
+
       "Built a complete coffee shop site with a ReSTful API, allowing users to browse and order coffee products.",
     link: "https://github.com/KaSaNaa/coffeeShop",
   },
@@ -164,6 +167,14 @@ export const projects = [
   },
   {
     iconUrl: google,
+    theme: "btn-back-red",
+    name: "Google Sign-in page Clone",
+    description:
+      "Created a clone of the Google sign-in page, allowing users to sign in with their Google accounts.",
+    link: "https://github.com/KaSaNaa/fakeWeb",
+  },
+  {
+    iconUrl: swapp_white,
     theme: "btn-back-red",
     name: "Google Sign-in page Clone",
     description:
